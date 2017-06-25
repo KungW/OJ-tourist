@@ -5,8 +5,8 @@
 
 ## 代码结构
 - output(存放各位已经ac的代码)
-	- $(oj-platform-name)
-		- $(platform-question-id)
+	- $(oj-platform-name)(如ZOJ，code_war等)
+		- $(platform-question-id)(在url中找独立编码)
 			- README.md(用于题目描述)
 			- $(your-username)
 				- $(any-files-about-your-answers)
