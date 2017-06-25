@@ -1,7 +1,7 @@
 # ZOJ Tourist
 关于该项目：
 - 为[ZOJ](http://acm.zju.edu.cn/onlinejudge/showProblemsets.do)你认为有意思的题目提供一份答案托管
-- 旨在让各位愉快且较有效率的刷题
+- 旨在让各位互相监督，愉快且较有效率的刷题
 
 ## 代码结构
 - output(存放各位已经ac的代码)
