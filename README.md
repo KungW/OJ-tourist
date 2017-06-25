@@ -4,7 +4,7 @@
 - 旨在让各位愉快且较有效率的刷题
 
 ## 代码结构
-- src(存放各位已经ac的代码)
+- output(存放各位已经ac的代码)
 	- $(zoj-question-id)
 		- README.md(用于题目描述)
 		- $(your-username)
