@@ -19,5 +19,4 @@
 目前的题库JSON已经拿到，我在想是否需要自己架个task queue定期分发题目，再有一个监督机制，让各位像背单词一样的刷算法题。
 
 ## 祝刷题愉快
-据说刷完1024题，天堂会有72个gakki陪你跳舞
-![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1498413506169&di=b9108112e48615708bcf2505403b3d1e&imgtype=0&src=http%3A%2F%2Fs15.sinaimg.cn%2Fmw690%2F00689bi2zy74TJcz5cGee)
+据说刷完1024题，天堂会有72个新垣结衣陪你跳舞
