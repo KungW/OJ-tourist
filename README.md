@@ -9,7 +9,7 @@
 		- $(platform-question-id)
 			- README.md(用于题目描述)
 			- $(your-username)
-			- $(any-files-about-your-answers)
+				- $(any-files-about-your-answers)
 - utils(相关任务脚本)
 
 ## 提交注意点
